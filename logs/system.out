@@ -1,0 +1,4 @@
+Listening for transport dt_socket at address: 8000
+15:09:08,758 INFO  ~ Starting /root/play/chisha
+15:09:09,328 WARN  ~ You're running Play! in DEV mode
+15:09:09,420 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...

@@ -1,0 +1,8 @@
+Listening for transport dt_socket at address: 8000
+10:01:15,047 INFO  ~ Starting /root/play/chisha
+10:01:15,633 WARN  ~ You're running Play! in DEV mode
+10:01:15,729 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+10:01:36,657 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;DB_CLOSE_ON_EXIT=FALSE
+10:01:37,587 INFO  ~ HHH000262: Table not found: TAB_USER
+10:01:37,590 INFO  ~ HHH000262: Table not found: TAB_USER
+10:01:38,095 INFO  ~ Application 'chisha' is now started !
