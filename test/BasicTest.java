@@ -103,6 +103,7 @@ public class BasicTest extends UnitTest {
 		frontPost.addComment("Jim","Hello guys");
 		assertEquals(3,frontPost.comments.size());
 		assertEquals(4,Comment.count());
+		assertEquals(1,1);
 	}
 
 
